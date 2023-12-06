@@ -6,3 +6,4 @@ class FirstappConfig(AppConfig):
     name = 'firstapp'
 
 # https://my-django-app.1ali0te50j2z.us-south.codeengine.appdomain.cloud/firstapp/
+# https://my-django-app.1ali0te50j2z.us-south.codeengine.appdomain.cloud/firstapp/date
